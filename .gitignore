@@ -1,0 +1,90 @@
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Rider / VSCode / Visual Studio
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET specific
+App_Data/
+BundleConfig.cs
+packages/
+*.dbmdl
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+# Logs
+logs/
+*.log
+
+# Cache files
+*.cache
+*.dll
+*.pdb
+*.mdb
+
+# Environment and config
+*.env
+*.local.json
+appsettings.Development.json
+appsettings.Local.json
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.orig
+
+# Auto-generated files
+*.generated.cs
+*.g.cs
+
+# Publish output
+publish/
+*.pubxml
+*.publishproj
+
+# Rider / ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Coverage / Testing
+coverage/
+TestResults/
+*.coverage
+*.coveragexml
+
+# Database (if using local SQLite)
+*.db
+*.sqlite
+*.sqlite3
+
+# Others
+Thumbs.db
+Desktop.ini
