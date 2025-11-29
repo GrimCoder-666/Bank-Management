@@ -41,7 +41,7 @@ Runs directly with **.NET 9 SDK**.
 ---
 
 ## 📂 Project Structure
-
+```
 SimpleBankingSystem/
 │
 ├── Models/
@@ -55,6 +55,7 @@ SimpleBankingSystem/
 │
 ├── Program.cs
 └── README.md
+```
 ---
 
 
@@ -93,4 +94,5 @@ Enter your choice:
 ## 🤝 Contributing
 Pull requests are welcome.
 ---
+
 
